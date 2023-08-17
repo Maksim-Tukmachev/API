@@ -4,5 +4,7 @@ import org.junit.jupiter.api.Test;
 
 class SchemaTest {
 @Test
-    void
+    void jsonSchemaTest(){
+
+    }
 }
